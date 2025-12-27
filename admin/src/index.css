@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* (Opcional) um resetzinho leve pra não ficar fonte “Times” se algo der ruim */
+html, body, #root {
+  height: 100%;
+}
